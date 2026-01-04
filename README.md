@@ -1,4 +1,4 @@
-# UAV Simulation System
+# PROJECT VAAYU
 
 A comprehensive 3D UAV (Unmanned Aerial Vehicle) simulation built with React, Three.js, and React Three Fiber. This application provides realistic drone simulation capabilities including surveillance and attack drone modes, complete with terrain interaction, target detection, and anti-drone defense systems.
 
