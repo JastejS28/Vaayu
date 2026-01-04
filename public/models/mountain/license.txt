@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowy Mountain Landscape
+* source:	https://sketchfab.com/3d-models/snowy-mountain-landscape-e6ba4ca3b6a943f88dcdb0722c9992ce
+* author:	Pukar Shiwakoti (https://sketchfab.com/PukarS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowy Mountain Landscape" (https://sketchfab.com/3d-models/snowy-mountain-landscape-e6ba4ca3b6a943f88dcdb0722c9992ce) by Pukar Shiwakoti (https://sketchfab.com/PukarS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

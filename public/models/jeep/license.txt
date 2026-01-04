@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeep
+* source:	https://sketchfab.com/3d-models/jeep-ae6528c1735848a99de368936413fb9b
+* author:	rajibkc (https://sketchfab.com/rajibkc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeep" (https://sketchfab.com/3d-models/jeep-ae6528c1735848a99de368936413fb9b) by rajibkc (https://sketchfab.com/rajibkc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
